@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+A app to help new users to get familiar with team project asap.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Hints of tools.
+- Directory structure of project.
 
 ## Getting started
 
